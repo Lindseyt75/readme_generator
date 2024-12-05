@@ -9,7 +9,8 @@
   "author": "Timothy_Lindsey",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.6"
   },
   "description": "readme_generator"
 }
