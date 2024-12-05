@@ -1,7 +1,7 @@
 # 📖 Create a Readme! 📖 #
 
 ## Description
-It produces a quality Readme!
+It helps build a quality Readme!
 
 ## Table of Contents
 - Installation
@@ -15,10 +15,10 @@ It produces a quality Readme!
  1. npm i inquirer@8, 2. npm i colors, 3. npm i, 4. node index.js
 
 ## Usage
-It helps produce a quality Readme!
+It is used to build a quality Readme!
 
 ## Contributing
-Modules and Github pages!
+Modules and Github pages
 
 ## Languages
  JavaScript, Node.js

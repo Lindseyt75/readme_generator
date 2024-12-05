@@ -46,12 +46,12 @@ const questions = [
 {
     type: 'input',
     name: 'github',
-    message: 'What is your GitHub username?',
+    message: colors.red('What is your GitHub username?'),
 },
 {
     type: 'input',
     name: 'email',
-    message: 'What is your email address?',
+    message: colors.red('What is your email address?'),
 },
 ];
 
