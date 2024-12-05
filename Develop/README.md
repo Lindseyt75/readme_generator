@@ -1,4 +1,4 @@
-# 📖 Create a Readme! 📖 #
+# 📖 Create Readme 📖 #
 
 ## Description
 It helps build a quality Readme!
@@ -15,7 +15,7 @@ It helps build a quality Readme!
  1. npm i inquirer@8, 2. npm i colors, 3. npm i, 4. node index.js
 
 ## Usage
-It is used to build a quality Readme!
+It is used to Build a quality Readme!
 
 ## Contributing
 Modules and Github pages
